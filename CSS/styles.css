@@ -33,7 +33,7 @@ body {
 }
 
 .header {
-    background: url("../Images/Compu.jpg") no-repeat center center;
+    background: url("../Images/Compu-min.jpg") no-repeat center center;
     margin-bottom: 0px;
     background-size: cover;
     padding: 18% 0;
@@ -243,7 +243,7 @@ body {
 }
 
 .contact {
-    background: url("../Images/CompuContacto.jpg") no-repeat center center;
+    background: url("../Images/CompuContacto-min.jpg") no-repeat center center;
     background-size: cover;
 }
 
