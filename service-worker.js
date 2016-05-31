@@ -310,7 +310,7 @@ self.addEventListener('fetch', function(event) {
 
 // Runtime cache configuration, using the sw-toolbox library.
 
-toolbox.router.get(/font-awesome/, toolbox.cacheFirst, {"cache":{"maxEntries":1,"name":"runtime-cache-1"}});
+toolbox.router.get(/fontawesome/, toolbox.cacheFirst, {"cache":{"maxEntries":3,"name":"runtime-cache-1"}});
 
 
 

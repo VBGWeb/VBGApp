@@ -34,12 +34,12 @@ module.exports = function(grunt) {
       ],
       runtimeCaching: [{
         // See https://github.com/GoogleChrome/sw-toolbox#methods
-        urlPattern: /font-awesome/,
+        urlPattern: /fontawesome/,
         handler: "cacheFirst",
         // See https://github.com/GoogleChrome/sw-toolbox#options
         options: {
           cache: {
-            maxEntries: 1,
+            maxEntries: 3,
             name: "runtime-cache-1"
           }
         }
