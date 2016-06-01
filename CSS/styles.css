@@ -36,6 +36,9 @@ body {
     background: url("../Images/Compu-min.jpg") no-repeat center center;
     margin-bottom: 0px;
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     padding: 18% 0;
 }
 
