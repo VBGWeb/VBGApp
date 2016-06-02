@@ -1,8 +1,8 @@
 // https://developer.mozilla.org/en-US/docs/Web/Manifest
 {
   "lang" : "en",
-  "name" : " VBG Appp",
-  "short_name" : "VBGAppp",
+  "name" : "VBG App",
+  "short_name" : "VBG App",
   // Para mostrar el "cartelito instalador" ( App banner ), chrome nos pide:
   // PNG format of at least 144x144px is required, and the sizes attribute must be set`
   "icons" : [{
