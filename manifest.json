@@ -1,22 +1,22 @@
 {
   "lang": "en",
-  "name": "PWA App",
-  "short_name": "PWA App",
+  "name": "VBG App",
+  "short_name": "VBG App",
   "gcm_sender_id": "272789329667",
   "icons": [
     {
-      "src": "img/ionic.png",
+      "src": "Images/VBGicon.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "img/cone-icon-transparent.png",
+      "src": "Images/cone-icon-transparent.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
-  "scope": "/pwa_tutorial/",
-  "start_url": "/pwa_tutorial/index.html",
+  "scope": "/VBGApp/",
+  "start_url": "/VBGApp/index.html",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "aliceblue",
@@ -24,7 +24,7 @@
   "related_applications": [
     {
       "platform": "web",
-      "url": "https://snoopconsulting.github.io/pwa_tutorial/index.html"
+      "url": "https://vbgweb.github.io/VBGApp/index.html"
     }
   ]
 }
